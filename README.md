@@ -21,9 +21,9 @@ Start the server in your command line when  in the root directory, type of eithe
 <img width="468" alt="i need this" src="https://user-images.githubusercontent.com/68198938/101306935-71c93080-3803-11eb-96e4-fe79bffd6aa7.png">
 
 ### Demo Video
-Watch this video to see the server and routes in action:
-1.https://drive.google.com/file/d/1nUqKt20KbfaiE92Zcid64IuE7d12ZT6G/view
-
+Watch this video to see the server and routes in action 2 videos:
+part 1.https://drive.google.com/file/d/1nUqKt20KbfaiE92Zcid64IuE7d12ZT6G/view
+part 2.https://drive.google.com/file/d/141c9ElAbNlhWYeMlbkZEsPFXe6jaPJvE/view
     
 ## Credits 
 UofA Coding Bootcamp
