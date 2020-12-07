@@ -2,7 +2,7 @@
 
 
 ## Description 
-The Social Network API is an app that focuses on MongoDB, Mongoose and Express for testing server routes. With the MVC in mind, you can create users, have thoughts on users posts, and react to thoughts. You will be able to update and delete users and thoughts. The use of Insomnia Core will help visualize testing routes and making requests to the server. There will also be virtuals as to friend counts and reaction counts.
+The Social Network API is an app which will focus on MongoDB, Mongoose and Express for testing server routes. With the MVC, you can create users, as well as have thoughts on users posts, and react to thoughts. The user will be able to update and delete users and thoughts. Insomnia Core will help visualize testing routes as well as making requests to the server. There will also be virtuals as to friend counts and reaction counts.
 
 
 ## Table of Contents 
@@ -12,11 +12,11 @@ The Social Network API is an app that focuses on MongoDB, Mongoose and Express f
 * [License](#license)
 
 ## Installation 
-Once the GitHub repo is cloned to your local files, in the command line you will install the Node.js packages of Express and Mongoose. MongoDB should already be downloading and running on your operating system. .gitignore the node packages
+After the GitHub repo is cloned to your local files, in the command line install the Node.js packages of Express and Mongoose. MongoDB will already be downloading and running on your operating system. .gitignore the node packages!!
 
 
 ## Usage 
-To start the server in your command line when you are in the root directory, type "node server" or "node server.js". Then open Insomnia Core and test the routes with the Local Host url and appropriate endpoints.
+Start the server in your command line when  in the root directory, type of either "node server" or "node server.js". Then open Insomnia Core & test the routes with  Local Host url and appropriate Endpoints.
 
 ![picture](<img width="468" alt="i need this" src="https://user-images.githubusercontent.com/68198938/101306935-71c93080-3803-11eb-96e4-fe79bffd6aa7.png">
 ### Demo Video
