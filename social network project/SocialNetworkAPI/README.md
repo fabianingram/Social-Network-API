@@ -21,8 +21,9 @@ To start the server in your command line when you are in the root directory, typ
 
 ### Demo Video
 Watch this video to see the server and routes in action:
-
-    
+#### part 1: https://drive.google.com/file/d/1nUqKt20KbfaiE92Zcid64IuE7d12ZT6G/view
+#### part 2: https://drive.google.com/file/d/141c9ElAbNlhWYeMlbkZEsPFXe6jaPJvE/view
+        
 ## Credits 
 UofA Coding Bootcamp
 
